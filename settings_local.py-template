@@ -1,7 +1,7 @@
 CSRF_COOKIE_SECURE = False
 DEBUG = True
 POSTMARK_API_KEY = ''
-SECRET_KEY = 'changeme'
+SECRET_KEY = '0n1ucp1jqhowl'
 SESSION_COOKIE_SECURE = False
 STRIPE_SECRET_KEY = ''
 USE_HTTPS = False
@@ -11,7 +11,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'snipt',
         'USER': 'snipt',
-        'PASSWORD': 'password',
+        'PASSWORD': 'RFVujm123@',
         'HOST': 'localhost',
         'PORT': ''
     }
