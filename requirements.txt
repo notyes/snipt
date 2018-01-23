@@ -22,7 +22,7 @@ gunicorn==19.6.0
 parsedatetime==2.1
 psycopg2==2.7.3
 py-bcrypt==0.4
-pycrypto==2.7.3
+pycrypto==2.6.1
 python-dateutil==2.5.3
 python-postmark==0.4.10
 requests==2.11.1
