@@ -106,7 +106,7 @@ TEMPLATES = [
     },
 ]
 
-TIME_ZONE = 'America/New_York'
+TIME_ZONE = 'Asia/Bangkok'
 USE_HTTPS = True if 'USE_SSL' in os.environ else False
 USE_I18N = True
 USE_L10N = True
